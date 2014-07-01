@@ -4,11 +4,11 @@ from distutils.core import setup
 
 setup(
         name = 'millyn_nester',
-        version = '1.0.0',
+        version = '1.3.0',
         py_modules = ['millyn_nester'],
         author = 'Millyn',
         author_email = 'chinamillynyue@gmail.com',
         url = 'http://onekgold.com',
-        description = '这就是看书学习的个作业'
+        description = '添加新的参数 用于判断是否使用制表符'
 
 )
