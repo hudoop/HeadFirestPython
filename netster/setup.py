@@ -3,9 +3,9 @@
 from distutils.core import setup
 
 setup(
-        name = 'nester',
+        name = 'millyn_nester',
         version = '1.0.0',
-        py_modules = ['nester'],
+        py_modules = ['millyn_nester'],
         author = 'Millyn',
         author_email = 'chinamillynyue@gmail.com',
         url = 'http://onekgold.com',
